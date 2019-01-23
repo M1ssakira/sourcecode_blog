@@ -1,0 +1,16 @@
+baseURL = "https://M1ssakira.github.io/"
+languageCode = "en-us"
+title = "lilith's website"
+theme = "hugo-theme-cactus-plus"
+
+[params]
+#    author = "site_author"
+#    description = "Site Description"
+#    bio = "author biography"
+
+
+    enableSummary = true
+    # Set the value to true if use description in post front matter replace content summary
+    useDescriptionReplaceSummary = true
+
+
